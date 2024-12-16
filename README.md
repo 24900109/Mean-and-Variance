@@ -51,6 +51,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 developed by : Kiruthika.N
 
 reg no : 24900109
+
 ![Screenshot 2024-11-11 092301](https://github.com/user-attachments/assets/8b793144-e9da-4026-a5d6-89f53f9b06e0)
 
 # Output : 
